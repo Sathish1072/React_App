@@ -14,8 +14,7 @@ export default function Home() {
           priority
         />
         <ol>
-          <li>
-            Get started by editing <code>app/page.js</code>.
+          <li>Sample upodates Get started by editing <code>app/page.js</code>.
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>
