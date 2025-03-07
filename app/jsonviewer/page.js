@@ -90,7 +90,7 @@ function JsonViewer({ data }) {
   
     return (
       <div className="app-container">
-        <h1>JSON - Viewer</h1>
+        <h1>JSON_Viewer</h1>
         <div className="editor-container">
           <div className="input-section">
             <div className="section-header">
