@@ -94,7 +94,7 @@ function JsonViewer({ data }) {
         <div className="editor-container">
           <div className="input-section">
             <div className="section-header">
-              <h2>Input JSON Sample</h2>
+              <h2>Input JSON Sathish Kumar G</h2>
               <button className="copy-button" onClick={handleCopyInput}>
                 Copy Input
               </button>
